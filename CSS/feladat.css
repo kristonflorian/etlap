@@ -1,0 +1,29 @@
+body{
+    background-color: #EEFF66;
+    color: #000066;
+}
+hr {
+    color: red;
+}
+h1 {
+    text-align: center;
+}
+h2, li {
+    margin-left: 3%;
+}
+p {
+    display: inline;
+}
+#eltolas1 {
+    margin-left: 44.5%;
+}
+#eltolas2 {
+    margin-left: 85%;
+}
+
+.napietel {
+    float: right;
+    width: 250px;
+    height: 150px;
+}
+

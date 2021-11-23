@@ -1,0 +1,10 @@
+Feladat
+Készítsen weblapot az alábbi mintának megfelelően! Gondoskodjon róla, hogy
+az "Előző hét" és a "Következő hét" feliratok legyenek linkek, de nem kell mutatniuk sehova;
+az ételek képei a honlapon legyenek azonos méretűek, akár torzítás árán is;
+
+
+Javasolt háttérszín:
+#EEFF66
+Javasolt betűszín:
+#000066
